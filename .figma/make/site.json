@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates communication for Ukrainian refugees in Spain with offline translation, administrative information, and access to official resources.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
